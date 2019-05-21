@@ -37,3 +37,25 @@
   - Create a Client App
     - Chat Capability
   - CI/CD Pipepline
+
+## UI Pages
+### Sign In Page (No 2)
+  - Enter User Name
+  - Enter Password
+  - Sign In Button
+  - Forgot My Password Button
+  - Sign Up Button
+
+### Sign Up Page (No 3)
+  - User Name
+  - Password
+  - Email Address
+
+### Group Chat Page (Start with this: No 1)
+  - Text Box to write message
+  - Button to send the message
+  - Chat box to view other mesages
+
+### Show Map Page (No 4)
+  - Show Map of Location
+  - Show All Connected User on map
